@@ -1,6 +1,7 @@
 {
     "configurations": [
         
+        
         {
             "type": "node-terminal",
             "name": "طرفية تصحيح JavaScript",
